@@ -1,0 +1,26 @@
+Fonts used in this design;
+
+Font: Alex Brush, 
+Author: TypeSETit, 
+Url: http://www.fontsquirrel.com/fonts/alex-brush; 
+
+Font: Andada, 
+Author: Huerta Tipográfica, 
+Url: http://www.fontsquirrel.com/fonts/andada; 
+
+Font: Frente H1, 
+Author: Frente, 
+Url: http://www.fontsquirrel.com/fonts/frente-h1; 
+
+Font: Source Code Pro, 
+Author: Adobe, 
+Url: http://www.fontsquirrel.com/fonts/source-code-pro; 
+
+Font: Source Serif Pro, 
+Author: Adobe, 
+Url: http://www.fontsquirrel.com/fonts/source-serif-pro; 
+
+Font: WC Mano Negra, 
+Author: WC Fonts, 
+Url: http://www.fontsquirrel.com/fonts/WC-Mano-Negra-Bta; 
+
